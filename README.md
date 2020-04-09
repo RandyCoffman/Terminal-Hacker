@@ -1,14 +1,12 @@
 # Terminal Hacker
 
-This is an app I made following a course to know Unity
+This is an app I made following a course to learn Unity
 
 Installation:
 
-Open your computer terminal. Enter in terminal...
+Open your computer terminal. Enter in terminal:
 
 $ git clone https://github.com/RandyCoffman/Terminal-Hacker
-
-install Unity
 
 To Start The App:
 
